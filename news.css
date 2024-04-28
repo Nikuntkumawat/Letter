@@ -1,0 +1,26 @@
+body{
+    font-family: Arial;
+    background: black;
+}
+
+.animation-box{
+    width: 75%;
+    height: 27.5rem;
+    margin: 0 auto;
+    position: relative;
+}
+
+.first-text{
+    font-size: 2.0rem;
+    color:#d8b941;
+    position: absolute;
+    left: 2.5rem;
+    top: 5rem;
+    opacity: 1;
+    animation-name: untoldcoding1;
+    animation-duration: 5s;
+    /* animation-delay: 5s; */
+}
+
+
+
